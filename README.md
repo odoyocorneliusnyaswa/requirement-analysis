@@ -161,7 +161,8 @@ Below is a use case diagram for the booking management system, illustrating the 
 
 - **Manage Users**: :contentReference[oaicite:64]{index=64}:contentReference[oaicite:66]{index=66}
 
-This diagram was created using [Draw.io](https://draw.io) and exported as `alx-booking-uc.png`. Ensure this image is placed in the root directory of your repository so it displays correctly in the README.
+This diagram was created using [Draw.io](https://draw.io) and exported as `alx-booking-uc.png`![Use Case Diagram](https://github.com/user-attachments/assets/e6e3bda7-152b-417e-a08f-46482ec889e0)
+ . Ensure this image is placed in the root directory of your repository so it displays correctly in the README.
 
 ## ✅ Acceptance Criteria
 
